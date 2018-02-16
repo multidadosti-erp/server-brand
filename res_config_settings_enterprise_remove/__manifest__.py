@@ -6,7 +6,7 @@
     'summary': 'Remove enterprise options from settings',
     'version': '11.0.1.0.0',
     'category': 'Maintenance',
-    'website': 'https://github.com/OCA/server-tools',
+    'website': 'https://github.com/OCA/server-brand/',
     'author': 'LasLabs, Odoo Community Association (OCA)',
     'license': 'AGPL-3',
     'depends': [
